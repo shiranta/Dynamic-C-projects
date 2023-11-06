@@ -1,0 +1,7 @@
+E:\DynamicLib\DemodelegateSolution\Demodelegate\bin\Debug\Demodelegate.exe.config
+E:\DynamicLib\DemodelegateSolution\Demodelegate\bin\Debug\Demodelegate.exe
+E:\DynamicLib\DemodelegateSolution\Demodelegate\bin\Debug\Demodelegate.pdb
+E:\DynamicLib\DemodelegateSolution\Demodelegate\obj\Debug\Demodelegate.csprojAssemblyReference.cache
+E:\DynamicLib\DemodelegateSolution\Demodelegate\obj\Debug\Demodelegate.csproj.CoreCompileInputs.cache
+E:\DynamicLib\DemodelegateSolution\Demodelegate\obj\Debug\Demodelegate.exe
+E:\DynamicLib\DemodelegateSolution\Demodelegate\obj\Debug\Demodelegate.pdb

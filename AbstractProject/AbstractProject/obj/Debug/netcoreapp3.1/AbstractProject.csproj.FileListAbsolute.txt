@@ -1,0 +1,13 @@
+E:\DynamicLib\AbstractProject\AbstractProject\bin\Debug\netcoreapp3.1\AbstractProject.exe
+E:\DynamicLib\AbstractProject\AbstractProject\bin\Debug\netcoreapp3.1\AbstractProject.deps.json
+E:\DynamicLib\AbstractProject\AbstractProject\bin\Debug\netcoreapp3.1\AbstractProject.runtimeconfig.json
+E:\DynamicLib\AbstractProject\AbstractProject\bin\Debug\netcoreapp3.1\AbstractProject.runtimeconfig.dev.json
+E:\DynamicLib\AbstractProject\AbstractProject\bin\Debug\netcoreapp3.1\AbstractProject.dll
+E:\DynamicLib\AbstractProject\AbstractProject\bin\Debug\netcoreapp3.1\AbstractProject.pdb
+E:\DynamicLib\AbstractProject\AbstractProject\obj\Debug\netcoreapp3.1\AbstractProject.csprojAssemblyReference.cache
+E:\DynamicLib\AbstractProject\AbstractProject\obj\Debug\netcoreapp3.1\AbstractProject.AssemblyInfoInputs.cache
+E:\DynamicLib\AbstractProject\AbstractProject\obj\Debug\netcoreapp3.1\AbstractProject.AssemblyInfo.cs
+E:\DynamicLib\AbstractProject\AbstractProject\obj\Debug\netcoreapp3.1\AbstractProject.csproj.CoreCompileInputs.cache
+E:\DynamicLib\AbstractProject\AbstractProject\obj\Debug\netcoreapp3.1\AbstractProject.dll
+E:\DynamicLib\AbstractProject\AbstractProject\obj\Debug\netcoreapp3.1\AbstractProject.pdb
+E:\DynamicLib\AbstractProject\AbstractProject\obj\Debug\netcoreapp3.1\AbstractProject.genruntimeconfig.cache

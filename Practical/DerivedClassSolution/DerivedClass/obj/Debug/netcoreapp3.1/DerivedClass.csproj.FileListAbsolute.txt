@@ -1,0 +1,13 @@
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\bin\Debug\netcoreapp3.1\DerivedClass.exe
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\bin\Debug\netcoreapp3.1\DerivedClass.deps.json
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\bin\Debug\netcoreapp3.1\DerivedClass.runtimeconfig.json
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\bin\Debug\netcoreapp3.1\DerivedClass.runtimeconfig.dev.json
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\bin\Debug\netcoreapp3.1\DerivedClass.dll
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\bin\Debug\netcoreapp3.1\DerivedClass.pdb
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\obj\Debug\netcoreapp3.1\DerivedClass.csprojAssemblyReference.cache
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\obj\Debug\netcoreapp3.1\DerivedClass.AssemblyInfoInputs.cache
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\obj\Debug\netcoreapp3.1\DerivedClass.AssemblyInfo.cs
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\obj\Debug\netcoreapp3.1\DerivedClass.csproj.CoreCompileInputs.cache
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\obj\Debug\netcoreapp3.1\DerivedClass.dll
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\obj\Debug\netcoreapp3.1\DerivedClass.pdb
+E:\DynamicLib\Practical\DerivedClassSolution\DerivedClass\obj\Debug\netcoreapp3.1\DerivedClass.genruntimeconfig.cache

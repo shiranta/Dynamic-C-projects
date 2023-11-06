@@ -1,0 +1,11 @@
+E:\DynamicLib\DataValidationSolution\DataValidation\bin\Debug\DataValidation.exe.config
+E:\DynamicLib\DataValidationSolution\DataValidation\bin\Debug\DataValidation.exe
+E:\DynamicLib\DataValidationSolution\DataValidation\bin\Debug\DataValidation.pdb
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.csprojAssemblyReference.cache
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.Form1.resources
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.Properties.Resources.resources
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.csproj.GenerateResource.cache
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.csproj.CoreCompileInputs.cache
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.exe
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.pdb
+E:\DynamicLib\DataValidationSolution\DataValidation\obj\Debug\DataValidation.frmMy.resources

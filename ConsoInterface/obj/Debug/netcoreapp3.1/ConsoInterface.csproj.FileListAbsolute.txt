@@ -1,0 +1,13 @@
+E:\DynamicLib\ConsoInterface\bin\Debug\netcoreapp3.1\ConsoInterface.exe
+E:\DynamicLib\ConsoInterface\bin\Debug\netcoreapp3.1\ConsoInterface.deps.json
+E:\DynamicLib\ConsoInterface\bin\Debug\netcoreapp3.1\ConsoInterface.runtimeconfig.json
+E:\DynamicLib\ConsoInterface\bin\Debug\netcoreapp3.1\ConsoInterface.runtimeconfig.dev.json
+E:\DynamicLib\ConsoInterface\bin\Debug\netcoreapp3.1\ConsoInterface.dll
+E:\DynamicLib\ConsoInterface\bin\Debug\netcoreapp3.1\ConsoInterface.pdb
+E:\DynamicLib\ConsoInterface\obj\Debug\netcoreapp3.1\ConsoInterface.csprojAssemblyReference.cache
+E:\DynamicLib\ConsoInterface\obj\Debug\netcoreapp3.1\ConsoInterface.AssemblyInfoInputs.cache
+E:\DynamicLib\ConsoInterface\obj\Debug\netcoreapp3.1\ConsoInterface.AssemblyInfo.cs
+E:\DynamicLib\ConsoInterface\obj\Debug\netcoreapp3.1\ConsoInterface.csproj.CoreCompileInputs.cache
+E:\DynamicLib\ConsoInterface\obj\Debug\netcoreapp3.1\ConsoInterface.dll
+E:\DynamicLib\ConsoInterface\obj\Debug\netcoreapp3.1\ConsoInterface.pdb
+E:\DynamicLib\ConsoInterface\obj\Debug\netcoreapp3.1\ConsoInterface.genruntimeconfig.cache

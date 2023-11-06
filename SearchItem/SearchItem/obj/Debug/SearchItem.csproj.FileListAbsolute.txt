@@ -1,0 +1,9 @@
+E:\DynamicLib\SearchItem\SearchItem\bin\Debug\SearchItem.exe.config
+E:\DynamicLib\SearchItem\SearchItem\bin\Debug\SearchItem.exe
+E:\DynamicLib\SearchItem\SearchItem\bin\Debug\SearchItem.pdb
+E:\DynamicLib\SearchItem\SearchItem\obj\Debug\SearchItem.csprojResolveAssemblyReference.cache
+E:\DynamicLib\SearchItem\SearchItem\obj\Debug\SearchItem.Form1.resources
+E:\DynamicLib\SearchItem\SearchItem\obj\Debug\SearchItem.Properties.Resources.resources
+E:\DynamicLib\SearchItem\SearchItem\obj\Debug\SearchItem.csproj.GenerateResource.Cache
+E:\DynamicLib\SearchItem\SearchItem\obj\Debug\SearchItem.exe
+E:\DynamicLib\SearchItem\SearchItem\obj\Debug\SearchItem.pdb

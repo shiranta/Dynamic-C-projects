@@ -1,0 +1,7 @@
+E:\DynamicLib\PractiseProj\PractiseProj\bin\Debug\PractiseProj.exe.config
+E:\DynamicLib\PractiseProj\PractiseProj\bin\Debug\PractiseProj.exe
+E:\DynamicLib\PractiseProj\PractiseProj\bin\Debug\PractiseProj.pdb
+E:\DynamicLib\PractiseProj\PractiseProj\obj\Debug\PractiseProj.csprojAssemblyReference.cache
+E:\DynamicLib\PractiseProj\PractiseProj\obj\Debug\PractiseProj.csproj.CoreCompileInputs.cache
+E:\DynamicLib\PractiseProj\PractiseProj\obj\Debug\PractiseProj.exe
+E:\DynamicLib\PractiseProj\PractiseProj\obj\Debug\PractiseProj.pdb

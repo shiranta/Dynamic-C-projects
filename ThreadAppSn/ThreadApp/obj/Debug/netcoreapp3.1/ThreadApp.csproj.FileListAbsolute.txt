@@ -1,0 +1,13 @@
+E:\DynamicLib\ThreadAppSn\ThreadApp\bin\Debug\netcoreapp3.1\ThreadApp.exe
+E:\DynamicLib\ThreadAppSn\ThreadApp\bin\Debug\netcoreapp3.1\ThreadApp.deps.json
+E:\DynamicLib\ThreadAppSn\ThreadApp\bin\Debug\netcoreapp3.1\ThreadApp.runtimeconfig.json
+E:\DynamicLib\ThreadAppSn\ThreadApp\bin\Debug\netcoreapp3.1\ThreadApp.runtimeconfig.dev.json
+E:\DynamicLib\ThreadAppSn\ThreadApp\bin\Debug\netcoreapp3.1\ThreadApp.dll
+E:\DynamicLib\ThreadAppSn\ThreadApp\bin\Debug\netcoreapp3.1\ThreadApp.pdb
+E:\DynamicLib\ThreadAppSn\ThreadApp\obj\Debug\netcoreapp3.1\ThreadApp.csprojAssemblyReference.cache
+E:\DynamicLib\ThreadAppSn\ThreadApp\obj\Debug\netcoreapp3.1\ThreadApp.AssemblyInfoInputs.cache
+E:\DynamicLib\ThreadAppSn\ThreadApp\obj\Debug\netcoreapp3.1\ThreadApp.AssemblyInfo.cs
+E:\DynamicLib\ThreadAppSn\ThreadApp\obj\Debug\netcoreapp3.1\ThreadApp.csproj.CoreCompileInputs.cache
+E:\DynamicLib\ThreadAppSn\ThreadApp\obj\Debug\netcoreapp3.1\ThreadApp.dll
+E:\DynamicLib\ThreadAppSn\ThreadApp\obj\Debug\netcoreapp3.1\ThreadApp.pdb
+E:\DynamicLib\ThreadAppSn\ThreadApp\obj\Debug\netcoreapp3.1\ThreadApp.genruntimeconfig.cache

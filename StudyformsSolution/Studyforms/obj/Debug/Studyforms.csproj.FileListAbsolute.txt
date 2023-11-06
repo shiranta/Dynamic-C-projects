@@ -1,0 +1,10 @@
+E:\DynamicLib\StudyformsSolution\Studyforms\bin\Debug\Studyforms.exe.config
+E:\DynamicLib\StudyformsSolution\Studyforms\bin\Debug\Studyforms.exe
+E:\DynamicLib\StudyformsSolution\Studyforms\bin\Debug\Studyforms.pdb
+E:\DynamicLib\StudyformsSolution\Studyforms\obj\Debug\Studyforms.csprojAssemblyReference.cache
+E:\DynamicLib\StudyformsSolution\Studyforms\obj\Debug\Studyforms.Properties.Resources.resources
+E:\DynamicLib\StudyformsSolution\Studyforms\obj\Debug\Studyforms.csproj.GenerateResource.cache
+E:\DynamicLib\StudyformsSolution\Studyforms\obj\Debug\Studyforms.csproj.CoreCompileInputs.cache
+E:\DynamicLib\StudyformsSolution\Studyforms\obj\Debug\Studyforms.exe
+E:\DynamicLib\StudyformsSolution\Studyforms\obj\Debug\Studyforms.pdb
+E:\DynamicLib\StudyformsSolution\Studyforms\obj\Debug\Studyforms.myform.resources

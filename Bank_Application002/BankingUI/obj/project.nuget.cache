@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I4xB//U6Vh/Vz8fVQ66+4/opCGpvi6F/5WMNSsVGu9MMs7WEKwN9fOfV7r8B2wyej/i81JnaHi8SgHkuhYQoCA==",
+  "success": true,
+  "projectFilePath": "E:\\DynamicLib\\Bank_Application\\BankingUI\\BankingUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shirantha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

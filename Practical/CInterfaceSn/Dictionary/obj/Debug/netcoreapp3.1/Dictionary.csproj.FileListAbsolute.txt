@@ -1,0 +1,13 @@
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
+E:\DynamicLib\Practical\CInterfaceSn\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache

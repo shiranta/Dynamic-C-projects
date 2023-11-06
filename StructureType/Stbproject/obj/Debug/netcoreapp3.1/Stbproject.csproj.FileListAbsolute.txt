@@ -1,0 +1,13 @@
+E:\DynamicLib\StructureType\Stbproject\bin\Debug\netcoreapp3.1\Stbproject.exe
+E:\DynamicLib\StructureType\Stbproject\bin\Debug\netcoreapp3.1\Stbproject.deps.json
+E:\DynamicLib\StructureType\Stbproject\bin\Debug\netcoreapp3.1\Stbproject.runtimeconfig.json
+E:\DynamicLib\StructureType\Stbproject\bin\Debug\netcoreapp3.1\Stbproject.runtimeconfig.dev.json
+E:\DynamicLib\StructureType\Stbproject\bin\Debug\netcoreapp3.1\Stbproject.dll
+E:\DynamicLib\StructureType\Stbproject\bin\Debug\netcoreapp3.1\Stbproject.pdb
+E:\DynamicLib\StructureType\Stbproject\obj\Debug\netcoreapp3.1\Stbproject.csprojAssemblyReference.cache
+E:\DynamicLib\StructureType\Stbproject\obj\Debug\netcoreapp3.1\Stbproject.AssemblyInfoInputs.cache
+E:\DynamicLib\StructureType\Stbproject\obj\Debug\netcoreapp3.1\Stbproject.AssemblyInfo.cs
+E:\DynamicLib\StructureType\Stbproject\obj\Debug\netcoreapp3.1\Stbproject.csproj.CoreCompileInputs.cache
+E:\DynamicLib\StructureType\Stbproject\obj\Debug\netcoreapp3.1\Stbproject.dll
+E:\DynamicLib\StructureType\Stbproject\obj\Debug\netcoreapp3.1\Stbproject.pdb
+E:\DynamicLib\StructureType\Stbproject\obj\Debug\netcoreapp3.1\Stbproject.genruntimeconfig.cache

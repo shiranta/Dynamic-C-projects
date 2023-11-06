@@ -1,0 +1,6 @@
+E:\DynamicLib\IHelloremotingService\bin\Debug\IHelloremotingService.dll
+E:\DynamicLib\IHelloremotingService\bin\Debug\IHelloremotingService.pdb
+E:\DynamicLib\IHelloremotingService\obj\Debug\IHelloremotingService.csproj.CoreCompileInputs.cache
+E:\DynamicLib\IHelloremotingService\obj\Debug\IHelloremotingService.dll
+E:\DynamicLib\IHelloremotingService\obj\Debug\IHelloremotingService.pdb
+E:\DynamicLib\IHelloRemotingService\obj\Debug\IHelloremotingService.csprojAssemblyReference.cache

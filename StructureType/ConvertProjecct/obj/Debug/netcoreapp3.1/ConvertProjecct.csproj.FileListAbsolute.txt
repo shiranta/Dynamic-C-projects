@@ -1,0 +1,13 @@
+E:\DynamicLib\StructureType\ConvertProjecct\bin\Debug\netcoreapp3.1\ConvertProjecct.exe
+E:\DynamicLib\StructureType\ConvertProjecct\bin\Debug\netcoreapp3.1\ConvertProjecct.deps.json
+E:\DynamicLib\StructureType\ConvertProjecct\bin\Debug\netcoreapp3.1\ConvertProjecct.runtimeconfig.json
+E:\DynamicLib\StructureType\ConvertProjecct\bin\Debug\netcoreapp3.1\ConvertProjecct.runtimeconfig.dev.json
+E:\DynamicLib\StructureType\ConvertProjecct\bin\Debug\netcoreapp3.1\ConvertProjecct.dll
+E:\DynamicLib\StructureType\ConvertProjecct\bin\Debug\netcoreapp3.1\ConvertProjecct.pdb
+E:\DynamicLib\StructureType\ConvertProjecct\obj\Debug\netcoreapp3.1\ConvertProjecct.csprojAssemblyReference.cache
+E:\DynamicLib\StructureType\ConvertProjecct\obj\Debug\netcoreapp3.1\ConvertProjecct.AssemblyInfoInputs.cache
+E:\DynamicLib\StructureType\ConvertProjecct\obj\Debug\netcoreapp3.1\ConvertProjecct.AssemblyInfo.cs
+E:\DynamicLib\StructureType\ConvertProjecct\obj\Debug\netcoreapp3.1\ConvertProjecct.csproj.CoreCompileInputs.cache
+E:\DynamicLib\StructureType\ConvertProjecct\obj\Debug\netcoreapp3.1\ConvertProjecct.dll
+E:\DynamicLib\StructureType\ConvertProjecct\obj\Debug\netcoreapp3.1\ConvertProjecct.pdb
+E:\DynamicLib\StructureType\ConvertProjecct\obj\Debug\netcoreapp3.1\ConvertProjecct.genruntimeconfig.cache

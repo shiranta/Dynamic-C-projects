@@ -1,0 +1,12 @@
+E:\DynamicLib\RemotingServiceHostConsole\bin\Debug\RemotingServiceHostConsole.exe.config
+E:\DynamicLib\RemotingServiceHostConsole\bin\Debug\RemotingServiceHostConsole.exe
+E:\DynamicLib\RemotingServiceHostConsole\bin\Debug\RemotingServiceHostConsole.pdb
+E:\DynamicLib\RemotingServiceHostConsole\bin\Debug\HelloRemotingService.dll
+E:\DynamicLib\RemotingServiceHostConsole\bin\Debug\IHelloremotingService.dll
+E:\DynamicLib\RemotingServiceHostConsole\bin\Debug\HelloRemotingService.pdb
+E:\DynamicLib\RemotingServiceHostConsole\bin\Debug\IHelloremotingService.pdb
+E:\DynamicLib\RemotingServiceHostConsole\obj\Debug\RemotingServiceHostConsole.csprojAssemblyReference.cache
+E:\DynamicLib\RemotingServiceHostConsole\obj\Debug\RemotingServiceHostConsole.csproj.CoreCompileInputs.cache
+E:\DynamicLib\RemotingServiceHostConsole\obj\Debug\RemotingServiceHostConsole.csproj.CopyComplete
+E:\DynamicLib\RemotingServiceHostConsole\obj\Debug\RemotingServiceHostConsole.exe
+E:\DynamicLib\RemotingServiceHostConsole\obj\Debug\RemotingServiceHostConsole.pdb

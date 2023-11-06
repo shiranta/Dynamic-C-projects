@@ -1,0 +1,7 @@
+E:\DynamicLib\DemodelegateSolution\DemoDelegateincludingList\bin\Debug\DemoDelegateincludingList.exe.config
+E:\DynamicLib\DemodelegateSolution\DemoDelegateincludingList\bin\Debug\DemoDelegateincludingList.exe
+E:\DynamicLib\DemodelegateSolution\DemoDelegateincludingList\bin\Debug\DemoDelegateincludingList.pdb
+E:\DynamicLib\DemodelegateSolution\DemoDelegateincludingList\obj\Debug\DemoDelegateincludingList.csprojAssemblyReference.cache
+E:\DynamicLib\DemodelegateSolution\DemoDelegateincludingList\obj\Debug\DemoDelegateincludingList.csproj.CoreCompileInputs.cache
+E:\DynamicLib\DemodelegateSolution\DemoDelegateincludingList\obj\Debug\DemoDelegateincludingList.exe
+E:\DynamicLib\DemodelegateSolution\DemoDelegateincludingList\obj\Debug\DemoDelegateincludingList.pdb

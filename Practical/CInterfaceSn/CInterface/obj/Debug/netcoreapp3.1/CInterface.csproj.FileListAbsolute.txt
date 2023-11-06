@@ -1,0 +1,13 @@
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\bin\Debug\netcoreapp3.1\CInterface.exe
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\bin\Debug\netcoreapp3.1\CInterface.deps.json
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\bin\Debug\netcoreapp3.1\CInterface.runtimeconfig.json
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\bin\Debug\netcoreapp3.1\CInterface.runtimeconfig.dev.json
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\bin\Debug\netcoreapp3.1\CInterface.dll
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\bin\Debug\netcoreapp3.1\CInterface.pdb
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\obj\Debug\netcoreapp3.1\CInterface.csprojAssemblyReference.cache
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\obj\Debug\netcoreapp3.1\CInterface.AssemblyInfoInputs.cache
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\obj\Debug\netcoreapp3.1\CInterface.AssemblyInfo.cs
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\obj\Debug\netcoreapp3.1\CInterface.csproj.CoreCompileInputs.cache
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\obj\Debug\netcoreapp3.1\CInterface.dll
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\obj\Debug\netcoreapp3.1\CInterface.pdb
+E:\DynamicLib\Practical\CInterfaceSn\CInterface\obj\Debug\netcoreapp3.1\CInterface.genruntimeconfig.cache

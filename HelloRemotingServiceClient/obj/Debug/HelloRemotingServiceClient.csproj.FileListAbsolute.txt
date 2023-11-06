@@ -1,0 +1,13 @@
+E:\DynamicLib\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe.config
+E:\DynamicLib\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe
+E:\DynamicLib\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.pdb
+E:\DynamicLib\HelloRemotingServiceClient\bin\Debug\IHelloremotingService.dll
+E:\DynamicLib\HelloRemotingServiceClient\bin\Debug\IHelloremotingService.pdb
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csprojAssemblyReference.cache
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Form1.resources
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.Properties.Resources.resources
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.GenerateResource.cache
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.CoreCompileInputs.cache
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.csproj.CopyComplete
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.exe
+E:\DynamicLib\HelloRemotingServiceClient\obj\Debug\HelloRemotingServiceClient.pdb

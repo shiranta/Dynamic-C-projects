@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProgectCtesting/1.0.0": {
+        "dependencies": {
+          "ProjectA.TeamA": "1.0.0",
+          "ProjectB.TeamA": "1.0.0"
+        },
+        "runtime": {
+          "ProgectCtesting.dll": {}
+        }
+      },
+      "ProjectA.TeamA/1.0.0": {
+        "runtime": {
+          "ProjectA.TeamA.dll": {}
+        }
+      },
+      "ProjectB.TeamA/1.0.0": {
+        "runtime": {
+          "ProjectB.TeamA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgectCtesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectA.TeamA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectB.TeamA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="WebSiteDvpPrj.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 900px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table align="center" class="auto-style1">
+                <tr>
+                    <td>
+                        <asp:Image ID="Image1" runat="server" Height="94px" ImageUrl="~/WebPics/FamilyFooter.jpg" Width="376px" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:Image ID="Image2" runat="server" Height="80px" ImageAlign="Middle" ImageUrl="~/WebPics/HeadFamily.jpg" Width="100%" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

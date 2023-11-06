@@ -1,0 +1,5 @@
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleInterfaces\bin\Debug\RemotingExampleInterfaces.dll
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleInterfaces\bin\Debug\RemotingExampleInterfaces.pdb
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleInterfaces\obj\Debug\RemotingExampleInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleInterfaces\obj\Debug\RemotingExampleInterfaces.dll
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleInterfaces\obj\Debug\RemotingExampleInterfaces.pdb

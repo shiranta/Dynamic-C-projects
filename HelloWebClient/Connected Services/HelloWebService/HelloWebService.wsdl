@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetMessage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMessageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetMessageResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddtwoNo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="a" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="b" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddtwoNoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddtwoNoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SubtractTwoNo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="a" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="b" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SubtractTwoNoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SubtractTwoNoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="MulTwoNo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="a" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="b" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="MulTwoNoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="MulTwoNoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DivideTwoNo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="a" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="b" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DivideTwoNoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DivideTwoNoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetMessageSoapIn">
+    <wsdl:part name="parameters" element="tns:GetMessage" />
+  </wsdl:message>
+  <wsdl:message name="GetMessageSoapOut">
+    <wsdl:part name="parameters" element="tns:GetMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddtwoNoSoapIn">
+    <wsdl:part name="parameters" element="tns:AddtwoNo" />
+  </wsdl:message>
+  <wsdl:message name="AddtwoNoSoapOut">
+    <wsdl:part name="parameters" element="tns:AddtwoNoResponse" />
+  </wsdl:message>
+  <wsdl:message name="SubtractTwoNoSoapIn">
+    <wsdl:part name="parameters" element="tns:SubtractTwoNo" />
+  </wsdl:message>
+  <wsdl:message name="SubtractTwoNoSoapOut">
+    <wsdl:part name="parameters" element="tns:SubtractTwoNoResponse" />
+  </wsdl:message>
+  <wsdl:message name="MulTwoNoSoapIn">
+    <wsdl:part name="parameters" element="tns:MulTwoNo" />
+  </wsdl:message>
+  <wsdl:message name="MulTwoNoSoapOut">
+    <wsdl:part name="parameters" element="tns:MulTwoNoResponse" />
+  </wsdl:message>
+  <wsdl:message name="DivideTwoNoSoapIn">
+    <wsdl:part name="parameters" element="tns:DivideTwoNo" />
+  </wsdl:message>
+  <wsdl:message name="DivideTwoNoSoapOut">
+    <wsdl:part name="parameters" element="tns:DivideTwoNoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="HelloWebServiceSoap">
+    <wsdl:operation name="GetMessage">
+      <wsdl:input message="tns:GetMessageSoapIn" />
+      <wsdl:output message="tns:GetMessageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddtwoNo">
+      <wsdl:input message="tns:AddtwoNoSoapIn" />
+      <wsdl:output message="tns:AddtwoNoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SubtractTwoNo">
+      <wsdl:input message="tns:SubtractTwoNoSoapIn" />
+      <wsdl:output message="tns:SubtractTwoNoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="MulTwoNo">
+      <wsdl:input message="tns:MulTwoNoSoapIn" />
+      <wsdl:output message="tns:MulTwoNoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DivideTwoNo">
+      <wsdl:input message="tns:DivideTwoNoSoapIn" />
+      <wsdl:output message="tns:DivideTwoNoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="HelloWebServiceSoap" type="tns:HelloWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetMessage">
+      <soap:operation soapAction="http://tempuri.org/GetMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddtwoNo">
+      <soap:operation soapAction="http://tempuri.org/AddtwoNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SubtractTwoNo">
+      <soap:operation soapAction="http://tempuri.org/SubtractTwoNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MulTwoNo">
+      <soap:operation soapAction="http://tempuri.org/MulTwoNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DivideTwoNo">
+      <soap:operation soapAction="http://tempuri.org/DivideTwoNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="HelloWebServiceSoap12" type="tns:HelloWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetMessage">
+      <soap12:operation soapAction="http://tempuri.org/GetMessage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddtwoNo">
+      <soap12:operation soapAction="http://tempuri.org/AddtwoNo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SubtractTwoNo">
+      <soap12:operation soapAction="http://tempuri.org/SubtractTwoNo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MulTwoNo">
+      <soap12:operation soapAction="http://tempuri.org/MulTwoNo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DivideTwoNo">
+      <soap12:operation soapAction="http://tempuri.org/DivideTwoNo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="HelloWebService">
+    <wsdl:port name="HelloWebServiceSoap" binding="tns:HelloWebServiceSoap">
+      <soap:address location="https://localhost:44359/HelloWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="HelloWebServiceSoap12" binding="tns:HelloWebServiceSoap12">
+      <soap12:address location="https://localhost:44359/HelloWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

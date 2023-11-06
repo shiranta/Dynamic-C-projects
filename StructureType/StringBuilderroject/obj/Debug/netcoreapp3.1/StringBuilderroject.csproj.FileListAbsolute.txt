@@ -1,0 +1,13 @@
+E:\DynamicLib\StructureType\StringBuilderroject\bin\Debug\netcoreapp3.1\StringBuilderroject.exe
+E:\DynamicLib\StructureType\StringBuilderroject\bin\Debug\netcoreapp3.1\StringBuilderroject.deps.json
+E:\DynamicLib\StructureType\StringBuilderroject\bin\Debug\netcoreapp3.1\StringBuilderroject.runtimeconfig.json
+E:\DynamicLib\StructureType\StringBuilderroject\bin\Debug\netcoreapp3.1\StringBuilderroject.runtimeconfig.dev.json
+E:\DynamicLib\StructureType\StringBuilderroject\bin\Debug\netcoreapp3.1\StringBuilderroject.dll
+E:\DynamicLib\StructureType\StringBuilderroject\bin\Debug\netcoreapp3.1\StringBuilderroject.pdb
+E:\DynamicLib\StructureType\StringBuilderroject\obj\Debug\netcoreapp3.1\StringBuilderroject.csprojAssemblyReference.cache
+E:\DynamicLib\StructureType\StringBuilderroject\obj\Debug\netcoreapp3.1\StringBuilderroject.AssemblyInfoInputs.cache
+E:\DynamicLib\StructureType\StringBuilderroject\obj\Debug\netcoreapp3.1\StringBuilderroject.AssemblyInfo.cs
+E:\DynamicLib\StructureType\StringBuilderroject\obj\Debug\netcoreapp3.1\StringBuilderroject.csproj.CoreCompileInputs.cache
+E:\DynamicLib\StructureType\StringBuilderroject\obj\Debug\netcoreapp3.1\StringBuilderroject.dll
+E:\DynamicLib\StructureType\StringBuilderroject\obj\Debug\netcoreapp3.1\StringBuilderroject.pdb
+E:\DynamicLib\StructureType\StringBuilderroject\obj\Debug\netcoreapp3.1\StringBuilderroject.genruntimeconfig.cache

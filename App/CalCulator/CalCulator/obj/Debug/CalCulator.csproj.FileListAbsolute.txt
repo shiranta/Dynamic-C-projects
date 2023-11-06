@@ -1,0 +1,5 @@
+C:\DynamicLib\App\CalCulator\CalCulator\bin\Debug\CalCulator.dll
+C:\DynamicLib\App\CalCulator\CalCulator\bin\Debug\CalCulator.pdb
+C:\DynamicLib\App\CalCulator\CalCulator\obj\Debug\CalCulator.csprojResolveAssemblyReference.cache
+C:\DynamicLib\App\CalCulator\CalCulator\obj\Debug\CalCulator.dll
+C:\DynamicLib\App\CalCulator\CalCulator\obj\Debug\CalCulator.pdb

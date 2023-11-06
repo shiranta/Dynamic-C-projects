@@ -1,0 +1,11 @@
+E:\DynamicLib\Bank_Application\Bank_Application\bin\Debug\BankingServer.pdb
+E:\DynamicLib\Bank_Application\Bank_Application\bin\Debug\BankDB.dll
+E:\DynamicLib\Bank_Application\Bank_Application\bin\Debug\Newtonsoft.Json.dll
+E:\DynamicLib\Bank_Application\Bank_Application\bin\Debug\Newtonsoft.Json.xml
+E:\DynamicLib\Bank_Application\Bank_Application\obj\Debug\BankingServer.csprojAssemblyReference.cache
+E:\DynamicLib\Bank_Application\Bank_Application\obj\Debug\BankingServer.csproj.CoreCompileInputs.cache
+E:\DynamicLib\Bank_Application\Bank_Application\obj\Debug\BankingServer.csproj.CopyComplete
+E:\DynamicLib\Bank_Application\Bank_Application\obj\Debug\BankingServer.pdb
+E:\DynamicLib\Bank_Application\Bank_Application\bin\Debug\BankingServer.exe.config
+E:\DynamicLib\Bank_Application\Bank_Application\bin\Debug\BankingServer.exe
+E:\DynamicLib\Bank_Application\Bank_Application\obj\Debug\BankingServer.exe

@@ -1,0 +1,9 @@
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\bin\Debug\Bank_Application.exe.config
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\bin\Debug\Bank_Application.exe
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\bin\Debug\Bank_Application.pdb
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\bin\Debug\BankDB.dll
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\obj\Debug\Bank_Application_Server.csprojAssemblyReference.cache
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\obj\Debug\Bank_Application_Server.csproj.CoreCompileInputs.cache
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\obj\Debug\Bank_Application_Server.csproj.CopyComplete
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\obj\Debug\Bank_Application.exe
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Bank_Application\obj\Debug\Bank_Application.pdb

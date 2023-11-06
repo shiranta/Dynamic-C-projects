@@ -1,0 +1,10 @@
+E:\DynamicLib\WinForms\bin\Debug\WinForms.exe.config
+E:\DynamicLib\WinForms\bin\Debug\WinForms.exe
+E:\DynamicLib\WinForms\bin\Debug\WinForms.pdb
+E:\DynamicLib\WinForms\obj\Debug\WinForms.csprojAssemblyReference.cache
+E:\DynamicLib\WinForms\obj\Debug\WinForms.Form1.resources
+E:\DynamicLib\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+E:\DynamicLib\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+E:\DynamicLib\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+E:\DynamicLib\WinForms\obj\Debug\WinForms.exe
+E:\DynamicLib\WinForms\obj\Debug\WinForms.pdb

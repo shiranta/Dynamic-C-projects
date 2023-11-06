@@ -1,0 +1,10 @@
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\obj\Debug\RemotingExampleClient.csprojAssemblyReference.cache
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\obj\Debug\RemotingExampleClient.csproj.CoreCompileInputs.cache
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\bin\Debug\RemotingExampleClient.exe.config
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\bin\Debug\RemotingExampleClient.exe
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\bin\Debug\RemotingExampleClient.pdb
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\bin\Debug\RemotingExampleInterfaces.dll
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\bin\Debug\RemotingExampleInterfaces.pdb
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\obj\Debug\RemotingExampleClient.csproj.CopyComplete
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\obj\Debug\RemotingExampleClient.exe
+C:\Users\Srilal\Desktop\ccp practicals\RemotingExampleInterfaces\RemotingExampleClient\obj\Debug\RemotingExampleClient.pdb

@@ -1,0 +1,13 @@
+E:\DynamicLib\ConceptSolution\Polynorphiism\bin\Debug\netcoreapp3.1\Polynorphiism.exe
+E:\DynamicLib\ConceptSolution\Polynorphiism\bin\Debug\netcoreapp3.1\Polynorphiism.deps.json
+E:\DynamicLib\ConceptSolution\Polynorphiism\bin\Debug\netcoreapp3.1\Polynorphiism.runtimeconfig.json
+E:\DynamicLib\ConceptSolution\Polynorphiism\bin\Debug\netcoreapp3.1\Polynorphiism.runtimeconfig.dev.json
+E:\DynamicLib\ConceptSolution\Polynorphiism\bin\Debug\netcoreapp3.1\Polynorphiism.dll
+E:\DynamicLib\ConceptSolution\Polynorphiism\bin\Debug\netcoreapp3.1\Polynorphiism.pdb
+E:\DynamicLib\ConceptSolution\Polynorphiism\obj\Debug\netcoreapp3.1\Polynorphiism.csprojAssemblyReference.cache
+E:\DynamicLib\ConceptSolution\Polynorphiism\obj\Debug\netcoreapp3.1\Polynorphiism.AssemblyInfoInputs.cache
+E:\DynamicLib\ConceptSolution\Polynorphiism\obj\Debug\netcoreapp3.1\Polynorphiism.AssemblyInfo.cs
+E:\DynamicLib\ConceptSolution\Polynorphiism\obj\Debug\netcoreapp3.1\Polynorphiism.csproj.CoreCompileInputs.cache
+E:\DynamicLib\ConceptSolution\Polynorphiism\obj\Debug\netcoreapp3.1\Polynorphiism.dll
+E:\DynamicLib\ConceptSolution\Polynorphiism\obj\Debug\netcoreapp3.1\Polynorphiism.pdb
+E:\DynamicLib\ConceptSolution\Polynorphiism\obj\Debug\netcoreapp3.1\Polynorphiism.genruntimeconfig.cache

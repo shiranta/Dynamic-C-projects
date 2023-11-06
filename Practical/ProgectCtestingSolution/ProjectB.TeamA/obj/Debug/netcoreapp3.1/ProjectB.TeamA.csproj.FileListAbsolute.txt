@@ -1,0 +1,9 @@
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\bin\Debug\netcoreapp3.1\ProjectB.TeamA.deps.json
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\bin\Debug\netcoreapp3.1\ProjectB.TeamA.dll
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\bin\Debug\netcoreapp3.1\ProjectB.TeamA.pdb
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\obj\Debug\netcoreapp3.1\ProjectB.TeamA.csprojAssemblyReference.cache
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\obj\Debug\netcoreapp3.1\ProjectB.TeamA.AssemblyInfoInputs.cache
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\obj\Debug\netcoreapp3.1\ProjectB.TeamA.AssemblyInfo.cs
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\obj\Debug\netcoreapp3.1\ProjectB.TeamA.csproj.CoreCompileInputs.cache
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\obj\Debug\netcoreapp3.1\ProjectB.TeamA.dll
+E:\DynamicLib\Practical\ProgectCtestingSolution\ProjectB.TeamA\obj\Debug\netcoreapp3.1\ProjectB.TeamA.pdb

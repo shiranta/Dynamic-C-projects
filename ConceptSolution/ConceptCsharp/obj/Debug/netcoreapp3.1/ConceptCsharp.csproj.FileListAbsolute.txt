@@ -1,0 +1,13 @@
+E:\DynamicLib\ConceptSolution\ConceptCsharp\bin\Debug\netcoreapp3.1\ConceptCsharp.exe
+E:\DynamicLib\ConceptSolution\ConceptCsharp\bin\Debug\netcoreapp3.1\ConceptCsharp.deps.json
+E:\DynamicLib\ConceptSolution\ConceptCsharp\bin\Debug\netcoreapp3.1\ConceptCsharp.runtimeconfig.json
+E:\DynamicLib\ConceptSolution\ConceptCsharp\bin\Debug\netcoreapp3.1\ConceptCsharp.runtimeconfig.dev.json
+E:\DynamicLib\ConceptSolution\ConceptCsharp\bin\Debug\netcoreapp3.1\ConceptCsharp.dll
+E:\DynamicLib\ConceptSolution\ConceptCsharp\bin\Debug\netcoreapp3.1\ConceptCsharp.pdb
+E:\DynamicLib\ConceptSolution\ConceptCsharp\obj\Debug\netcoreapp3.1\ConceptCsharp.csprojAssemblyReference.cache
+E:\DynamicLib\ConceptSolution\ConceptCsharp\obj\Debug\netcoreapp3.1\ConceptCsharp.AssemblyInfoInputs.cache
+E:\DynamicLib\ConceptSolution\ConceptCsharp\obj\Debug\netcoreapp3.1\ConceptCsharp.AssemblyInfo.cs
+E:\DynamicLib\ConceptSolution\ConceptCsharp\obj\Debug\netcoreapp3.1\ConceptCsharp.csproj.CoreCompileInputs.cache
+E:\DynamicLib\ConceptSolution\ConceptCsharp\obj\Debug\netcoreapp3.1\ConceptCsharp.dll
+E:\DynamicLib\ConceptSolution\ConceptCsharp\obj\Debug\netcoreapp3.1\ConceptCsharp.pdb
+E:\DynamicLib\ConceptSolution\ConceptCsharp\obj\Debug\netcoreapp3.1\ConceptCsharp.genruntimeconfig.cache

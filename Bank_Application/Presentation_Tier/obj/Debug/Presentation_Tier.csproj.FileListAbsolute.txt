@@ -1,0 +1,24 @@
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\bin\Debug\Presentation_Tier.exe.config
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\bin\Debug\Presentation_Tier.exe
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\bin\Debug\Presentation_Tier.pdb
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\bin\Debug\BankDB.dll
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\bin\Debug\RemotingExampleInterfaces.dll
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\bin\Debug\RemotingExampleInterfaces.pdb
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.csprojAssemblyReference.cache
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.csproj.CoreCompileInputs.cache
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.csproj.CopyComplete
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.exe
+C:\Users\Srilal\Desktop\ccp practicals\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.pdb
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Presentation_Tier.exe.config
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Presentation_Tier.exe
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Presentation_Tier.pdb
+E:\DynamicLib\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.csprojAssemblyReference.cache
+E:\DynamicLib\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.csproj.CoreCompileInputs.cache
+E:\DynamicLib\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.csproj.CopyComplete
+E:\DynamicLib\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.exe
+E:\DynamicLib\Bank_Application\Presentation_Tier\obj\Debug\Presentation_Tier.pdb
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Bank_Application.exe
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Bank_Application.pdb
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Bank_Application.exe.config
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Newtonsoft.Json.dll
+E:\DynamicLib\Bank_Application\Presentation_Tier\bin\Debug\Newtonsoft.Json.xml

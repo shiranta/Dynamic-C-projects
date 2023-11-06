@@ -1,0 +1,7 @@
+E:\DynamicLib\Sample\ServerRem\bin\Debug\ServerRem.exe.config
+E:\DynamicLib\Sample\ServerRem\bin\Debug\ServerRem.exe
+E:\DynamicLib\Sample\ServerRem\bin\Debug\ServerRem.pdb
+E:\DynamicLib\Sample\ServerRem\obj\Debug\ServerRem.csprojAssemblyReference.cache
+E:\DynamicLib\Sample\ServerRem\obj\Debug\ServerRem.csproj.CoreCompileInputs.cache
+E:\DynamicLib\Sample\ServerRem\obj\Debug\ServerRem.exe
+E:\DynamicLib\Sample\ServerRem\obj\Debug\ServerRem.pdb

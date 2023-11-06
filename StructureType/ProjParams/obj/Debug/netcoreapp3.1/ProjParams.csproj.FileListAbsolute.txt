@@ -1,0 +1,13 @@
+E:\DynamicLib\StructureType\ProjParams\obj\Debug\netcoreapp3.1\ProjParams.csprojAssemblyReference.cache
+E:\DynamicLib\StructureType\ProjParams\obj\Debug\netcoreapp3.1\ProjParams.AssemblyInfoInputs.cache
+E:\DynamicLib\StructureType\ProjParams\obj\Debug\netcoreapp3.1\ProjParams.AssemblyInfo.cs
+E:\DynamicLib\StructureType\ProjParams\obj\Debug\netcoreapp3.1\ProjParams.csproj.CoreCompileInputs.cache
+E:\DynamicLib\StructureType\ProjParams\bin\Debug\netcoreapp3.1\ProjParams.exe
+E:\DynamicLib\StructureType\ProjParams\bin\Debug\netcoreapp3.1\ProjParams.deps.json
+E:\DynamicLib\StructureType\ProjParams\bin\Debug\netcoreapp3.1\ProjParams.runtimeconfig.json
+E:\DynamicLib\StructureType\ProjParams\bin\Debug\netcoreapp3.1\ProjParams.runtimeconfig.dev.json
+E:\DynamicLib\StructureType\ProjParams\bin\Debug\netcoreapp3.1\ProjParams.dll
+E:\DynamicLib\StructureType\ProjParams\bin\Debug\netcoreapp3.1\ProjParams.pdb
+E:\DynamicLib\StructureType\ProjParams\obj\Debug\netcoreapp3.1\ProjParams.dll
+E:\DynamicLib\StructureType\ProjParams\obj\Debug\netcoreapp3.1\ProjParams.pdb
+E:\DynamicLib\StructureType\ProjParams\obj\Debug\netcoreapp3.1\ProjParams.genruntimeconfig.cache

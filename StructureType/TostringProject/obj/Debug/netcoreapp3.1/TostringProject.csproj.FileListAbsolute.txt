@@ -1,0 +1,13 @@
+E:\DynamicLib\StructureType\TostringProject\bin\Debug\netcoreapp3.1\TostringProject.exe
+E:\DynamicLib\StructureType\TostringProject\bin\Debug\netcoreapp3.1\TostringProject.deps.json
+E:\DynamicLib\StructureType\TostringProject\bin\Debug\netcoreapp3.1\TostringProject.runtimeconfig.json
+E:\DynamicLib\StructureType\TostringProject\bin\Debug\netcoreapp3.1\TostringProject.runtimeconfig.dev.json
+E:\DynamicLib\StructureType\TostringProject\bin\Debug\netcoreapp3.1\TostringProject.dll
+E:\DynamicLib\StructureType\TostringProject\bin\Debug\netcoreapp3.1\TostringProject.pdb
+E:\DynamicLib\StructureType\TostringProject\obj\Debug\netcoreapp3.1\TostringProject.csprojAssemblyReference.cache
+E:\DynamicLib\StructureType\TostringProject\obj\Debug\netcoreapp3.1\TostringProject.AssemblyInfoInputs.cache
+E:\DynamicLib\StructureType\TostringProject\obj\Debug\netcoreapp3.1\TostringProject.AssemblyInfo.cs
+E:\DynamicLib\StructureType\TostringProject\obj\Debug\netcoreapp3.1\TostringProject.csproj.CoreCompileInputs.cache
+E:\DynamicLib\StructureType\TostringProject\obj\Debug\netcoreapp3.1\TostringProject.dll
+E:\DynamicLib\StructureType\TostringProject\obj\Debug\netcoreapp3.1\TostringProject.pdb
+E:\DynamicLib\StructureType\TostringProject\obj\Debug\netcoreapp3.1\TostringProject.genruntimeconfig.cache

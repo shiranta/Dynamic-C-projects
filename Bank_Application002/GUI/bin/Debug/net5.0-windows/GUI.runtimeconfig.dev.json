@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Srilal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Srilal\\.nuget\\packages"
+    ]
+  }
+}

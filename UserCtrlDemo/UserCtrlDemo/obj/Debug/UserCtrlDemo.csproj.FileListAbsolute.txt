@@ -1,0 +1,12 @@
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\bin\Debug\UserCtrlDemo.exe.config
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.DistrictUserCtrl.resources
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.Properties.Resources.resources
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.csproj.GenerateResource.Cache
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\bin\Debug\UserCtrlDemo.exe
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\bin\Debug\UserCtrlDemo.pdb
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.exe
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.pdb
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.Form1.resources
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.frmWin.resources
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.csprojAssemblyReference.cache
+E:\DynamicLib\UserCtrlDemo\UserCtrlDemo\obj\Debug\UserCtrlDemo.csproj.CoreCompileInputs.cache

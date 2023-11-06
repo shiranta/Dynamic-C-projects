@@ -1,0 +1,13 @@
+E:\DynamicLib\StructureType\StructureType\obj\Debug\netcoreapp3.1\StructureType.csprojAssemblyReference.cache
+E:\DynamicLib\StructureType\StructureType\obj\Debug\netcoreapp3.1\StructureType.AssemblyInfoInputs.cache
+E:\DynamicLib\StructureType\StructureType\obj\Debug\netcoreapp3.1\StructureType.AssemblyInfo.cs
+E:\DynamicLib\StructureType\StructureType\obj\Debug\netcoreapp3.1\StructureType.csproj.CoreCompileInputs.cache
+E:\DynamicLib\StructureType\StructureType\bin\Debug\netcoreapp3.1\StructureType.exe
+E:\DynamicLib\StructureType\StructureType\bin\Debug\netcoreapp3.1\StructureType.deps.json
+E:\DynamicLib\StructureType\StructureType\bin\Debug\netcoreapp3.1\StructureType.runtimeconfig.json
+E:\DynamicLib\StructureType\StructureType\bin\Debug\netcoreapp3.1\StructureType.runtimeconfig.dev.json
+E:\DynamicLib\StructureType\StructureType\bin\Debug\netcoreapp3.1\StructureType.dll
+E:\DynamicLib\StructureType\StructureType\bin\Debug\netcoreapp3.1\StructureType.pdb
+E:\DynamicLib\StructureType\StructureType\obj\Debug\netcoreapp3.1\StructureType.dll
+E:\DynamicLib\StructureType\StructureType\obj\Debug\netcoreapp3.1\StructureType.pdb
+E:\DynamicLib\StructureType\StructureType\obj\Debug\netcoreapp3.1\StructureType.genruntimeconfig.cache
